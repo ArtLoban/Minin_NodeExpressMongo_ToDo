@@ -1,0 +1,21 @@
+
+        >>> Info <<<
+
+******************************************************************
+
+$   npm i express mongoose
+
+$   npm i -D nodemon
+
+$   npm i express-handlebars        // Шаблонизатор
+
+*******************************************************
+
+    ** Run **
+
+One time
+$   npm run start
+
+-----------------------------
+Run Watcher
+$   npm run dev
